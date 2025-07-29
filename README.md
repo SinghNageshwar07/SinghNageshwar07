@@ -35,7 +35,7 @@
 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nageshwar1995&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SinghNageshwar07&show_icons=true&theme=radical" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghNageshwar07&layout=compact&theme=tokyonight" />
 </p>
