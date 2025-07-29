@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nageshwar Kumar Singh</h1>
-<h3 align="center">Aspiring Data Analyst | Final Year BTech CSE Student | Python • SQL • Power BI</h3>
+<h3 align="center">Aspiring Data Analyst | BTech In Computer Scince  | Python • SQL • Power BI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nageshwar-singh&label=Profile%20views&color=0e75b6&style=flat" alt="nageshwar-singh" />
+  <img src="https://komarev.com/ghpvc/?username=SinghNageshwar07&label=Profile%20views&color=0e75b6&style=flat" alt="SinghNageshwar07" />
 </p>
 
 ---
 
 🌟 **About Me**
 
-- 🎓 Final year BTech Computer Science student at ITM, Gorakhpur (2025)
+- 🎓 BTech Computer Science from ITM, Gorakhpur (2025)
 - 💻 Currently building an **Algorithm Visualizer** with HTML, CSS, JS
 - 📊 Learning and building projects with Python, SQL, Excel, Power BI
 - 🔍 Exploring the world of data and insights
@@ -35,9 +35,9 @@
 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nageshwar-singh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SinghNageshwar07&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nageshwar-singh&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghNageshwar07&layout=compact&theme=tokyonight" />
 </p>
 
 ---
