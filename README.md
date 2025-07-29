@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nageshwar Kumar Singh</h1>
-<h3 align="center">Aspiring Data Analyst | BTech In Computer Scince  | Python • SQL • Power BI</h3>
+<h3 align="center">Aspiring Data Analyst | BTech In Computer Science  | Python • SQL • Power BI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SinghNageshwar07&label=Profile%20views&color=0e75b6&style=flat" alt="SinghNageshwar07" />
