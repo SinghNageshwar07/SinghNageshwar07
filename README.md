@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nageshwar Kumar Singh</h1>
 <h3 align="center">Aspiring Data Analyst | Final Year BTech CSE Student | Python • SQL • Power BI</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nageshwar-singh&label=Profile%20views&color=0e75b6&style=flat" alt="nageshwar-singh" />
+</p>
+
 ---
 
 🌟 **About Me**
@@ -13,27 +17,46 @@
 
 ---
 
-🛠️ **Tech Stack**
+🛠️ **Tech Stack & Tools**
 
-- **Languages**: Python, JavaScript, SQL  
-- **Tools**: Excel, Power BI, MySQL, Git, VS Code  
-- **Web**: HTML, CSS, JavaScript  
-- **Other Skills**: Data Cleaning, Visualization, Problem Solving
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi" />
+  <img src="https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+</p>
 
 ---
 
-📈 **Projects**
+📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nageshwar-singh&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nageshwar-singh&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+📂 **Projects**
 
 - 🔷 **Algorithm Visualizer** – Visual tool to demonstrate sorting and pathfinding algorithms  
-- 🔶 *Add more soon...*
+- 🔶 *More coming soon...*
 
 ---
 
 📫 **Connect with Me**
 
-- Email: nageshwar.singh97@gmail.com  
-- LinkedIn: [linkedin.com/in/nageshwar-singh-1292192b4](https://www.linkedin.com/in/nageshwar-singh-1292192b4)
+- 📧 Email: nageshwar.singh97@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/nageshwar-singh-1292192b4](https://www.linkedin.com/in/nageshwar-singh-1292192b4)
 
 ---
 
 💡 *"Data is the new oil – and I’m learning how to refine it."*
+
+
+
