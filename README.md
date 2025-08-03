@@ -42,10 +42,15 @@
 
 ---
 
+
+
 📂 **Projects**
 
-- 🔷 **Algorithm Visualizer** – Visual tool to demonstrate sorting and pathfinding algorithms  
-- 🔶 *More coming soon...*
+1. [TO-DO List – Task Management App](https://github.com/SinghNageshwar07TO-DO-LIST) – A simple and interactive to-do list web application to manage daily tasks efficiently.  
+
+2. [Simple Calculator – JavaScript](https://github.com/SinghNageshwar07/Simple-Calculator) – A basic calculator built with HTML, CSS, and JavaScript for performing simple arithmetic operations.  
+
+3. [Automatic Generate Password – Python](https://github.com/SinghNageshwar07/Automatic-Generate-Password) – A Python-based password generator that creates secure and random passwords with custom length options.  
 
 ---
 
